@@ -37,7 +37,7 @@ By using this dashboard, users can identify industry trends, determine which gen
         VideoGameSales[JP_Sales] +
        VideoGameSales[Other_Sales] )
 
-![Image](https://github.com/user-attachments/assets/00e5cdd3-cdd8-426c-b9db-53673b8c6ccb)
+![Image](https://github.com/user-attachments/assets/06a72782-f388-4c59-9e54-c089e1953191)
 
 - Step 6: Setting the Report Theme & Layout
 - Step 7: Adding Visuals to the Report Canvas
